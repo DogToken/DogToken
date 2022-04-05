@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @DogToken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DogToken/DogToken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in cryptocurrency!
+- 🌱 I’m currently learning alot, but i'm mainly sleeping.
+- 💞️ I’m looking to collaborate on Smart Chain Solutions
+- 📫 You can reach me here by leaving a message, or you can contact me on twitter.
