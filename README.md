@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DogToken
-- 👀 I’m interested in cryptocurrency!
-- 🌱 I’m currently learning alot, but i'm mainly sleeping.
-- 💞️ I’m looking to collaborate on Smart Chain Solutions
-- 📫 You can reach me here by leaving a message, or you can contact me on twitter.
+- 👋 Hi, I’m @DogToken 🐶
+- 👀 I’m interested in cryptocurrency! 💰
+- 🌱 I’m currently learning alot, but i'm mainly sleeping. 💤
+- 💞️ I’m looking to collaborate on Smart Chain Solutions 🦴
+- 📫 You can reach me here by leaving a message, or you can contact me on twitter. 💬
